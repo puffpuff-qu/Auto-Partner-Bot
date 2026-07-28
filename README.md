@@ -17,7 +17,7 @@
 
 <a href="https://discord.com/oauth2/authorize?client_id=1517257160273297562&permissions=8&scope=bot%20applications.commands"><img src="https://img.shields.io/badge/Add_to_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Add Auto Partner Bot to Discord" height="52"></a>
 &nbsp;&nbsp;
-<a href="https://discord.gg/faaahhhh-842342468581195786"><img src="https://img.shields.io/badge/Support_Server-23272A?style=for-the-badge&logo=discord&logoColor=white" alt="Join the support server" height="52"></a>
+<a href="https://discord.gg/UEqutbWf5B"><img src="https://img.shields.io/badge/Support_Server-23272A?style=for-the-badge&logo=discord&logoColor=white" alt="Join the support server" height="52"></a>
 
 </div>
 
@@ -58,11 +58,11 @@ No repeated voting. No subscription. No monthly payment. Pay once and keep lifet
 
 The price may increase in the future, so grab lifetime Auto Ad while it is still only **$5**.
 
-To purchase, [join the support server](https://discord.gg/faaahhhh-842342468581195786) and create a ticket.
+To purchase, [join the support server](https://discord.gg/UEqutbWf5B) and create a ticket.
 
 <div align="center">
 
-<a href="https://discord.gg/faaahhhh-842342468581195786"><img src="https://img.shields.io/badge/Get_Lifetime_Auto_Ad_$5-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Purchase lifetime Auto Ad for $5" height="52"></a>
+<a href="https://discord.gg/UEqutbWf5B"><img src="https://img.shields.io/badge/Get_Lifetime_Auto_Ad_$5-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Purchase lifetime Auto Ad for $5" height="52"></a>
 
 </div>
 
@@ -102,7 +102,7 @@ If you do not select a partnership channel, the bot can create and configure one
 
 ## Ready to grow your Discord server?
 
-<a href="https://discord.gg/faaahhhh-842342468581195786"><img src="https://img.shields.io/badge/Join_the_Official_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the official Discord server" height="52"></a>
+<a href="https://discord.gg/UEqutbWf5B"><img src="https://img.shields.io/badge/Join_the_Official_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the official Discord server" height="52"></a>
 
 <br>
 <br>
