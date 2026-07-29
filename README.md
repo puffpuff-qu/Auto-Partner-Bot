@@ -17,7 +17,7 @@
 
 <a href="https://discord.com/oauth2/authorize?client_id=1517257160273297562&permissions=8&scope=bot%20applications.commands"><img src="https://img.shields.io/badge/Add_to_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Add Auto Partner Bot to Discord" height="52"></a>
 &nbsp;&nbsp;
-<a href="https://discord.gg/UEqutbWf5B"><img src="https://img.shields.io/badge/Support_Server-23272A?style=for-the-badge&logo=discord&logoColor=white" alt="Join the support server" height="52"></a>
+<a href="https://discord.gg/dmnw66HHmK"><img src="https://img.shields.io/badge/Support_Server-23272A?style=for-the-badge&logo=discord&logoColor=white" alt="Join the support server" height="52"></a>
 
 </div>
 
@@ -34,7 +34,7 @@ Create your listing once, then advertise it across eligible communities in the p
 * Simple setup using slash commands, buttons, and forms
 * Advertising reminders and community leaderboards
 * Free Auto Ad access through votes
-* Permanent lifetime Auto Ad for a one time payment of only **$5**
+* Two additional Premium Auto Ad slots for **six months** for only **$5**
 
 ## Three ways to advertise
 
@@ -50,19 +50,19 @@ Vote for Auto Partner Bot on the supported listing sites to unlock automatic adv
 
 This gives you powerful automatic promotion while keeping the bot fully free.
 
-### 3. Lifetime Auto Ad for only $5
+### 3. Premium Auto Ad — $5 for six months
 
-Get the exclusive Auto Ad feature **permanently for life** with a one time payment of only **$5**.
+One **$5** purchase unlocks **two additional automatic advertising slots for six months**.
 
-No repeated voting. No subscription. No monthly payment. Pay once and keep lifetime access.
+Premium slots stack with up to two active vote slots, allowing as many as **four servers** in your automatic advertising list.
 
-The price may increase in the future, so grab lifetime Auto Ad while it is still only **$5**.
+Servers assigned to paid slots also continue automatic advertising while the bot is under maintenance.
 
-To purchase, [join the support server](https://discord.gg/UEqutbWf5B) and create a ticket.
+To purchase, run `/buy premium` or [join the support server](https://discord.gg/dmnw66HHmK) for assistance.
 
 <div align="center">
 
-<a href="https://discord.gg/UEqutbWf5B"><img src="https://img.shields.io/badge/Get_Lifetime_Auto_Ad_$5-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Purchase lifetime Auto Ad for $5" height="52"></a>
+<a href="https://discord.gg/dmnw66HHmK"><img src="https://img.shields.io/badge/Get_6_Months_of_Premium_$5-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Purchase six months of Premium Auto Ad for $5" height="52"></a>
 
 </div>
 
@@ -71,7 +71,7 @@ To purchase, [join the support server](https://discord.gg/UEqutbWf5B) and create
 1. [Invite Auto Partner Bot](https://discord.com/oauth2/authorize?client_id=1517257160273297562&permissions=8&scope=bot%20applications.commands) to your server.
 2. Run `/setup` and enter your permanent server invite and description.
 3. Run `/advertise` or press the advertising button to promote for free.
-4. Vote for free Auto Ad access or purchase lifetime Auto Ad for $5.
+4. Vote for free Auto Ad access or purchase two Premium Auto Ad slots for six months for $5.
 
 If you do not select a partnership channel, the bot can create and configure one for you.
 
@@ -102,7 +102,7 @@ If you do not select a partnership channel, the bot can create and configure one
 
 ## Ready to grow your Discord server?
 
-<a href="https://discord.gg/UEqutbWf5B"><img src="https://img.shields.io/badge/Join_the_Official_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the official Discord server" height="52"></a>
+<a href="https://discord.gg/dmnw66HHmK"><img src="https://img.shields.io/badge/Join_the_Official_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the official Discord server" height="52"></a>
 
 <br>
 <br>
