@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" alt="Auto Partner Bot banner" width="100%">
+<img src="./assets/banner.png" alt="Auto Partner Bot banner" width="100%">
 
 <br>
 <br>
 
-<img src="./assets/icon.jpg" alt="Auto Partner Bot icon" width="140" height="140">
+<img src="./assets/icon.png" alt="Auto Partner Bot icon" width="140" height="140">
 
 # Auto Partner Bot
 
