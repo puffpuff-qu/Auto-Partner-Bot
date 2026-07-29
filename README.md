@@ -11,7 +11,7 @@
 
 ### Free Discord advertising and automatic partnerships made simple.
 
-**Advertise your Discord server across a growing partnership network that has already reached 10,000+ members.**
+**Advertise your Discord server across a growing partnership network that has already reached more than 10,000 members.**
 
 <br>
 
