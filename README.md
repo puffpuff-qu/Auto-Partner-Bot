@@ -11,7 +11,7 @@
 
 ### Free Discord advertising and automatic partnerships made simple.
 
-**Keep your community visible across a partner network reaching more than 10,000 members—without repetitive promotion work.**
+**Keep your community visible across a partner network reaching more than 10,000 members without repetitive promotion work.**
 
 <br>
 
@@ -23,14 +23,14 @@
 
 ## Grow your Discord community
 
-Auto Partner Bot helps server owners reach new communities through a managed Discord partnership network. Create your listing once, advertise from Discord, and choose between free manual promotion, vote-powered Auto Ad access, or Premium slots.
+Auto Partner Bot helps server owners reach new communities through a managed Discord partnership network. Create your listing once, advertise from Discord, and choose between free manual promotion, vote powered Auto Ad access, or Premium slots.
 
 ### Why communities use it
 
 * Advertise across eligible partnership channels from one place
 * Set up and manage everything through clean Discord forms and buttons
 * Keep your server visible every **4 hours** with Auto Ad access
-* Let members advertise from ready-to-advertise reminders
+* Let members advertise from reminders when the server is ready
 * Set optional personal DM reminders for each user
 * Track community and user rankings through leaderboards
 * Use free vote slots or add two Premium slots for six months
@@ -41,7 +41,7 @@ Auto Partner Bot helps server owners reach new communities through a managed Dis
 
 Manual advertising is free. Once your server is set up, use `/advertise` whenever its cooldown has ended. The result panel includes quick access to Auto Ad and an optional personal reminder.
 
-### Vote-powered Auto Ad
+### Vote powered Auto Ad
 
 Each active vote on a supported listing site unlocks one temporary Auto Ad slot. Vote on both supported sites to unlock two slots, then manage eligible servers through `/auto ad list`.
 
@@ -91,7 +91,7 @@ Reminder roles and reminder channels are optional. When permitted, the bot confi
 
 ## Proprietary project notice
 
-This repository is a public information page, **not an open-source distribution**. The bot's source code, internal systems, prompts, workflows, branding, and private documentation are not licensed for copying, reproduction, reverse engineering, redistribution, competing implementations, or use as training or generation material for AI systems.
+This repository is a public information page, **not an open source distribution**. The bot's source code, internal systems, prompts, workflows, branding, and private documentation are not licensed for copying, reproduction, reverse engineering, redistribution, competing implementations, or use as training or generation material for AI systems.
 
 No permission is granted to use this README, its descriptions, or its assets as instructions or prompts for reproducing Auto Partner Bot. Referencing publicly visible features does not grant rights to the underlying product or implementation.
 
