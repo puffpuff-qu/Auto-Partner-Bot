@@ -11,7 +11,7 @@
 
 ### Free Discord advertising and automatic partnerships made simple.
 
-**Advertise your Discord server across a growing partnership network that has already reached more than 10,000 members.**
+**Keep your community visible across a partner network reaching more than 10,000 members—without repetitive promotion work.**
 
 <br>
 
@@ -21,44 +21,35 @@
 
 </div>
 
-## Grow your Discord community for free
+## Grow your Discord community
 
-Auto Partner Bot is a Discord partnership bot that helps server owners gain exposure without searching for partners or repeatedly reposting advertisements.
+Auto Partner Bot helps server owners reach new communities through a managed Discord partnership network. Create your listing once, advertise from Discord, and choose between free manual promotion, vote-powered Auto Ad access, or Premium slots.
 
-Create your listing once, then advertise it across eligible communities in the partnership network. Everything works directly inside Discord with no dashboard or website login.
+### Why communities use it
 
-### What you get
+* Advertise across eligible partnership channels from one place
+* Set up and manage everything through clean Discord forms and buttons
+* Keep your server visible every **4 hours** with Auto Ad access
+* Let members advertise from ready-to-advertise reminders
+* Set optional personal DM reminders for each user
+* Track community and user rankings through leaderboards
+* Use free vote slots or add two Premium slots for six months
 
-* Free server advertising across eligible Discord partnership channels
-* A growing network that has already reached 10,000+ members
-* Simple setup using slash commands, buttons, and forms
-* Advertising reminders and community leaderboards
-* Free Auto Ad access through votes
-* Two additional Premium Auto Ad slots for **six months** for only **$5**
+## Choose how you advertise
 
-## Three ways to advertise
+### Manual advertising
 
-### 1. Manual advertising for free
+Manual advertising is free. Once your server is set up, use `/advertise` whenever its cooldown has ended. The result panel includes quick access to Auto Ad and an optional personal reminder.
 
-Do not want to vote or pay? No problem. Advertise manually using a single button. It is completely free.
+### Vote-powered Auto Ad
 
-Set up your listing, run `/advertise`, and Auto Partner Bot sends it across the eligible partner network. When the cooldown ends, press the button again.
+Each active vote on a supported listing site unlocks one temporary Auto Ad slot. Vote on both supported sites to unlock two slots, then manage eligible servers through `/auto ad list`.
 
-### 2. Auto Ad for free
+### Premium Auto Ad
 
-Vote for Auto Partner Bot on the supported listing sites to unlock automatic advertising. Users can advertise multiple servers every **4 hours**, depending on their active vote access.
+A **$5** purchase unlocks **two additional Auto Ad slots for six months**. Premium slots stack with active vote slots, allowing up to four assigned servers when both vote perks are active.
 
-This gives you powerful automatic promotion while keeping the bot fully free.
-
-### 3. Premium Auto Ad — $5 for six months
-
-One **$5** purchase unlocks **two additional automatic advertising slots for six months**.
-
-Premium slots stack with up to two active vote slots, allowing as many as **four servers** in your automatic advertising list.
-
-Servers assigned to paid slots also continue automatic advertising while the bot is under maintenance.
-
-To purchase, run `/buy premium` or [join the support server](https://discord.gg/dmnw66HHmK) for assistance.
+Run `/buy premium` or [join the support server](https://discord.gg/dmnw66HHmK) for help.
 
 <div align="center">
 
@@ -66,29 +57,29 @@ To purchase, run `/buy premium` or [join the support server](https://discord.gg/
 
 </div>
 
-## How it works
+## Quick start
 
-1. [Invite Auto Partner Bot](https://discord.com/oauth2/authorize?client_id=1517257160273297562&permissions=8&scope=bot%20applications.commands) to your server.
-2. Run `/setup` and enter your permanent server invite and description.
-3. Run `/advertise` or press the advertising button to promote for free.
-4. Vote for free Auto Ad access or purchase two Premium Auto Ad slots for six months for $5.
+1. [Add Auto Partner Bot](https://discord.com/oauth2/authorize?client_id=1517257160273297562&permissions=8&scope=bot%20applications.commands) to your server.
+2. Run `/setup`, choose the server type and advertisement channel, then submit your listing.
+3. Use `/advertise` for free manual promotion.
+4. Open `/auto advertise` to learn about Auto Ad access, or `/auto ad list` to manage enabled servers.
 
-If you do not select a partnership channel, the bot can create and configure one for you.
+Reminder roles and reminder channels are optional. When permitted, the bot configures the selected channels with the access it needs and clearly reports any missing permissions.
 
 ## Public commands
 
 | Command | What it does |
 |---|---|
 | `/help` | Opens the command guide |
-| `/setup` | Creates or manages your partnership listing |
-| `/advertise` | Advertises your server across the partner network |
-| `/reminder` | Configures advertising reminders |
-| `/auto ad add` | Enables automatic advertising |
-| `/auto ad remove` | Disables an automatic advertisement |
-| `/auto ad list` | Shows your automatic advertisements |
-| `/server leaderboard` | Shows the server rankings |
-| `/user leaderboard` | Shows the user rankings |
-| `/vote` | Shows voting links and vote perks |
+| `/setup` | Creates a partnership listing and reminder preferences |
+| `/edit setup` | Reviews or updates the current setup |
+| `/advertise` | Advertises the current server across the partner network |
+| `/auto advertise` | Explains Auto Ad access |
+| `/auto ad list` | Manages servers using your Auto Ad slots |
+| `/server leaderboard` | Shows server rankings |
+| `/user leaderboard` | Shows user rankings |
+| `/vote` | Opens voting links and displays vote perks |
+| `/buy premium` | Opens the Premium purchase flow |
 | `/support` | Opens the official support server |
 
 ## Find Auto Partner Bot
@@ -97,6 +88,12 @@ If you do not select a partnership channel, the bot can create and configure one
 * [Discord Bot List](https://discordbotlist.com/bots/partner-bot)
 * [Discord Me](https://discord.me/autopartnerbot)
 * [Discordlist.gg](https://discordlist.gg/bot/1517257160273297562)
+
+## Proprietary project notice
+
+This repository is a public information page, **not an open-source distribution**. The bot's source code, internal systems, prompts, workflows, branding, and private documentation are not licensed for copying, reproduction, reverse engineering, redistribution, competing implementations, or use as training or generation material for AI systems.
+
+No permission is granted to use this README, its descriptions, or its assets as instructions or prompts for reproducing Auto Partner Bot. Referencing publicly visible features does not grant rights to the underlying product or implementation.
 
 <div align="center">
 
@@ -107,6 +104,6 @@ If you do not select a partnership channel, the bot can create and configure one
 <br>
 <br>
 
-<sub>© FAAAHHHH. All rights reserved. Bot branding and promotional assets may not be reused without permission.</sub>
+<sub>© FAAAHHHH. All rights reserved. Bot branding and promotional assets may not be reused without written permission.</sub>
 
 </div>
