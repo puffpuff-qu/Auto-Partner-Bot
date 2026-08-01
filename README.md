@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Auto Partner Bot banner" width="100%">
+<img src="./assets/banner.png" alt="Auto Partner Bot banner" width="75%">
 
 <br>
 <br>
