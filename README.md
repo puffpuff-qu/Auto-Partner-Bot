@@ -1,15 +1,9 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Auto Partner Bot banner" width="75%">
+<img src="./assets/banner.png" alt="Auto Partner Bot banner" width="100%">
 
 <br>
 <br>
-
-<img src="./assets/icon.png" alt="Auto Partner Bot icon" width="140" height="140">
-
-# Auto Partner Bot
-
-### Free Discord advertising and automatic partnerships made simple.
 
 **Keep your community visible across a partner network reaching more than 10,000 members without repetitive promotion work.**
 
