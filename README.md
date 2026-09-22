@@ -27,7 +27,7 @@ Auto Partner Bot helps server owners reach new communities through a managed Dis
 * Let members advertise from reminders when the server is ready
 * Set optional personal DM reminders for each user
 * Track community and user rankings through leaderboards
-* Use free vote slots or add two Premium slots for six months
+* Use the free vote slot or add two Premium slots for one month
 
 ## Choose how you advertise
 
@@ -41,13 +41,13 @@ Each active vote on a supported listing site unlocks one temporary Auto Ad slot.
 
 ### Premium Auto Ad
 
-A **$5** purchase unlocks **two additional Auto Ad slots for six months**. Premium slots stack with active vote slots, allowing up to four assigned servers when both vote perks are active.
+A **$3.99 monthly** purchase unlocks **two additional Auto Ad slots for one month**. Premium slots stack with the active vote slot, allowing up to three advertised servers.
 
 Run `/buy premium` or [join the support server](https://discord.gg/dmnw66HHmK) for help.
 
 <div align="center">
 
-<a href="https://discord.gg/dmnw66HHmK"><img src="https://img.shields.io/badge/Get_6_Months_of_Premium_$5-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Purchase six months of Premium Auto Ad for $5" height="52"></a>
+<a href="https://discord.gg/dmnw66HHmK"><img src="https://img.shields.io/badge/Get_1_Month_of_Premium_$3.99-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Purchase one month of Premium Auto Ad for $3.99" height="52"></a>
 
 </div>
 
