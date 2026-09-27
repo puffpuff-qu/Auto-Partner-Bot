@@ -11,7 +11,7 @@ Let Auto Partner Bot handle regular promotion while your team runs the community
 &nbsp;
 <a href="https://discord.gg/dmnw66HHmK"><img src="https://img.shields.io/badge/Talk_to_Us-242133?style=for-the-badge&logo=discord&logoColor=white" alt="Talk to the team in the support server"></a>
 
-[Advertising categories](#advertise-in-your-size-range) &nbsp; / &nbsp; [Auto Ad](#put-your-promotion-on-a-schedule) &nbsp; / &nbsp; [Get started](#three-steps-to-your-first-ad)
+[Advertising categories](#advertise-in-your-size-range) &nbsp; / &nbsp; [Auto Ad](#put-your-promotion-on-a-schedule) &nbsp; / &nbsp; [Get started](#three-steps-to-your-first-ad) &nbsp; / &nbsp; [View Auto Partner Bot on Top.gg](https://top.gg/bot/1517257160273297562)
 
 </div>
 
@@ -19,7 +19,7 @@ Let Auto Partner Bot handle regular promotion while your team runs the community
 
 ## Less partnership work for your staff
 
-Create your listing once. Auto Partner Bot shares it in eligible servers' partnership channels, and your chosen channel receives ads from the network.
+Auto Partner Bot is a **Discord advertising and partnership bot** for free server promotion and scheduled Auto Ad. Create your listing once. The bot shares it in eligible servers' partnership channels, and your chosen channel receives ads from the network.
 
 | Reach your size range | Keep your listing active | Keep control in Discord |
 | :--- | :--- | :--- |
