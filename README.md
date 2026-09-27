@@ -52,6 +52,7 @@ Pick an existing partnership channel or let the bot create one during setup. Opt
 
 | | Free manual ads | Vote for Auto Ad | Premium Auto Ad |
 | :--- | :--- | :--- | :--- |
+| **Price** | Free | Free with voting | **$3.99/month** |
 | **Posting** | Run `/advertise` | Automatic | Automatic |
 | **Cooldown** | 6 hours | 4 hours | 4 hours |
 | **Access** | Free after setup | Keep votes active on both listing sites | Active Premium subscription |
@@ -60,7 +61,13 @@ Pick an existing partnership channel or let the bot create one during setup. Opt
 
 Vote on **Top.gg and Discord Bot List** to unlock one Auto Ad slot while both votes are active, for up to 12 hours. Renew both votes to keep using it. Premium adds two slots, so you can manage up to three servers when your vote slot is also active.
 
-Use `/auto advertise` to choose and manage your servers. Check `/buy premium` for current pricing.
+Use `/auto advertise` to choose and manage your servers.
+
+### Two servers on Auto Ad. Just $3.99 a month.
+
+**About 13 cents a day** gets you two Premium slots, with automatic advertising on a four-hour cooldown. Those slots work without voting, so your team has no votes to renew to keep them active. Keep your free vote slot active too, and you can advertise three servers in total.
+
+Run **`/buy premium`** to subscribe, or [ask us about Premium](https://discord.gg/dmnw66HHmK). Your checkout shows the final price.
 
 ## Three steps to your first ad
 
